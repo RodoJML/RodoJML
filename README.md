@@ -14,7 +14,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 * EGG321 - Technical Communication
 * BUS349 - Data Management and Big Data  
 
-<br/><br/>
+<br/>
 
 ### Find me around the web 🌎:
 📫 How to reach me by email: rjmenes1@asu.edu | menesesr1@newpaltz.edu

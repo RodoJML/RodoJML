@@ -12,7 +12,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 * CPS485 - Projects
 * CPS493 - Machine Learning
 * EGG321 - Technical Communication
-* BUS349 - Data Management and Big Data
+* BUS349 - Data Management and Big Data  
 
 
 ### Find me around the web 🌎:

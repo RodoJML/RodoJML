@@ -8,7 +8,7 @@ I'm a motivated computer systems engineer student, passionate about technology w
 
 
 ### Find me around the web 🌎:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif' alt='worldspn' height='40'>]
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif' alt='worldspn' height='40'>
 
 
 📫 How to reach me by email: rjmenes1@asu.edu

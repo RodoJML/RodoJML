@@ -22,7 +22,6 @@ Motivated computer systems engineer student, passionate about technology who's c
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodojml/)
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rodojml)
 
 
 

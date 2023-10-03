@@ -8,7 +8,6 @@ Motivated computer systems engineer student, passionate about technology who's c
 
 
 # 📲 I'm currently learning
-![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
 **State University of New York - (Fall '23)**
 * CPS485 - Projects
 * CPS493 - Machine Learning

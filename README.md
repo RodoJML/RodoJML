@@ -1,3 +1,3 @@
 ### Hi, I'm Rodolfo 👋🏽 🧑🏽‍💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodojml)](https://github.com/anuraghazra/github-readme-stats)
+![GitHubBanner](https://github.com/RodoJML/RodoJML/assets/63088555/ba3912f9-be7c-44f4-88de-c2f3604835ca)

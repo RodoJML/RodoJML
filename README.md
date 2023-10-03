@@ -23,7 +23,4 @@ Motivated computer systems engineer student, passionate about technology who's c
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodojml/)
 
-<a href="https://discord.gg/695849984712638475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="695849984712638475" height="30" width="40" /></a>
-
-
-
+<a href="https://discord.gg/695849984712638475" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670325.png" alt="695849984712638475" height="30" width="40" /></a>

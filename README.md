@@ -17,7 +17,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 <br/>
 
 ### Find me around the web 🌎:
-📫 How to reach me by email: rjmenes1@asu.edu | menesesr1@newpaltz.edu
+📫 Reach me by email: rjmenes1@asu.edu | menesesr1@newpaltz.edu
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RodoJML)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)

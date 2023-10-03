@@ -4,6 +4,9 @@
 
 I'm a motivated computer systems engineer student, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS using Frameworks like VUE, React, Tailwind, Bulma with tools as git, GitHub, VSCode and others. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RodoJML)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodojml/)

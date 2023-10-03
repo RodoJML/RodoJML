@@ -6,12 +6,14 @@ Motivated computer systems engineer student, passionate about technology who's c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
 
+
 # 💻 I'm currently learning
 **State University of New York**
 * CPS485 - Projects
 * CPS493 - Machine Learning
 * EGG321 - Technical Communication
 * BUS349 - Data Management and Big Data
+
 
 ### Find me around the web 🌎:
 📫 How to reach me by email: rjmenes1@asu.edu | menesesr1@newpaltz.edu

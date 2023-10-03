@@ -23,3 +23,6 @@ Motivated computer systems engineer student, passionate about technology who's c
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodojml/)
 <a href="https://discordapp.com/users/695849984712638475" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670325.png" alt="695849984712638475" height="40"/></a>
+
+
+![6a2dfb96f278692f0900cc08975efe0e_w200](https://github.com/RodoJML/RodoJML/assets/63088555/ec5eb183-c71a-42fb-afb0-081a79eb62f2)

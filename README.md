@@ -8,7 +8,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 
 
 # 📲 I'm currently learning
-**State University of New York | Fall '23**
+**State University of New York - (Fall '23)**
 * CPS485 - Projects
 * CPS493 - Machine Learning
 * EGG321 - Technical Communication

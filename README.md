@@ -4,8 +4,7 @@
 
 I'm a motivated computer systems engineer student, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB using Frameworks like VUE, React, Tailwind, Bulma combined with tools as git, GitHub, VSCode, mySQLWorkBench and others. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
 
 ### Find me around the web 🌎:
 📫 How to reach me by email: rjmenes1@asu.edu

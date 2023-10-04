@@ -12,7 +12,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 * EGG321 - Technical Communication
 * BUS349 - Data Management and Big Data  
 ![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
-### Find me around the web 🌎
+## Find me around the web 🌎
 📬 email: rjmenes1@asu.edu
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RodoJML)

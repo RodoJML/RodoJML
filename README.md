@@ -5,7 +5,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
 
-# 📲 I'm currently learning
+# 📲 Currently learning
 **State University of New York - (Fall '23)**
 * CPS485 - Projects
 * CPS493 - Machine Learning

@@ -1,5 +1,4 @@
-
-<div> <h1>Hi, I'm Rodo! 👋🏽<h1/>  <div align='right'>[![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml) [![Repos Badge](https://badges.pufler.dev/repos/rodojml)](https://badges.pufler.dev)</div></div>
+# Hi, I'm Rodo! 👋🏽<div align='right'>[![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml) [![Repos Badge](https://badges.pufler.dev/repos/rodojml)](https://badges.pufler.dev)</div></div>
 
 
 <img width="1001" alt="banne" src="https://github.com/RodoJML/RodoJML/assets/63088555/f7b1be76-5942-469a-b6a9-f7d3460f8518">

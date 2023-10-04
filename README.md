@@ -18,4 +18,8 @@ Motivated computer systems engineer student, passionate about technology who's c
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RodoJML)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodojml/)
+![3670325 (1)](https://github.com/RodoJML/RodoJML/assets/63088555/6762b1ca-8007-4608-bf1c-c7012881b470)
+<a href="https://discordapp.com/users/695849984712638475" target="blank"><img src="https://github.com/RodoJML/RodoJML/assets/63088555/6762b1ca-8007-4608-bf1c-c7012881b470" alt="695849984712638475" height="40"/></a>
 <a href="https://discordapp.com/users/695849984712638475" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670325.png" alt="695849984712638475" height="40"/></a>
+
+[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)

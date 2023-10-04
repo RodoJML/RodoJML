@@ -6,7 +6,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
 
-[![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka) <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Drodojml&longCache=true"/>
+[![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml) <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Drodojml&longCache=true"/>
 
 
 # 📲 I'm currently learning

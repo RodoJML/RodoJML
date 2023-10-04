@@ -4,10 +4,11 @@
 
 Motivated computer systems engineer student, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB using Frameworks like VUE, React, Tailwind, Bulma combined with tools as git, GitHub, Visual Studio Code, mySQLWorkBench and others. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
 
 [![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
+
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
 
 
 # 📲 I'm currently learning

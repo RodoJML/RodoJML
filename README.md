@@ -5,7 +5,7 @@
 Motivated computer systems engineer student, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB using Frameworks like VUE, React, Tailwind, Bulma combined with tools as git, GitHub, Visual Studio Code, mySQLWorkBench and others. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
-
+[![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev)
 
 # 📲 I'm currently learning
 **State University of New York - (Fall '23)**

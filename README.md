@@ -1,4 +1,4 @@
-#  <p style="vertical-align: middle">I'm Rodo! 👋🏽</p>
+#  <p style="vertical-align: bottom">I'm Rodo! 👋🏽</p>
 <img width="1001" alt="banne" src="https://github.com/RodoJML/RodoJML/assets/63088555/f7b1be76-5942-469a-b6a9-f7d3460f8518">
 
 Motivated computer systems engineer student, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB using Frameworks like VUE, React, Tailwind, Bulma combined with tools as git, GitHub, Visual Studio Code, mySQLWorkBench and others. (<a href="https://github.com/RodoJML/RodoJML/files/12826897/rodolfo_meneses_resume.pdf">📄 Resume</a>)

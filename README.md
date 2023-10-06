@@ -14,13 +14,11 @@ Motivated computer systems engineer student, passionate about technology who's c
 ![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
 ## Find me around the web 🌎
 📬 email: rjmenes1@asu.edu
-<div>
+
   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-    
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rodolfo-meneses-leal-08b66a20a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a?trk=profile-badge">Rodolfo Meneses Leal</a></div>
   </script>
 
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rodolfo-meneses-leal-08b66a20a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a?trk=profile-badge">Rodolfo Meneses Leal</a></div>
-</div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodojml/)

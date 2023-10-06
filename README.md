@@ -15,7 +15,9 @@ Motivated computer systems engineer student, passionate about technology who's c
 ## Find me around the web 🌎
 📬 email: rjmenes1@asu.edu
 <div>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
+    
+  </script>
 
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rodolfo-meneses-leal-08b66a20a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a?trk=profile-badge">Rodolfo Meneses Leal</a></div>
 </div>

@@ -1,7 +1,7 @@
 # Hi, I'm Rodo! 👋🏽
 <img width="1001" alt="banne" src="https://github.com/RodoJML/RodoJML/assets/63088555/f7b1be76-5942-469a-b6a9-f7d3460f8518">
 
-Motivated computer systems engineer student, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB using Frameworks like VUE, React, Tailwind, Bulma combined with tools as git, GitHub, Visual Studio Code, mySQLWorkBench and others. 
+Motivated computer systems engineer student, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB using Frameworks like VUE, React, Tailwind, Bulma combined with tools as git, GitHub, Visual Studio Code, mySQLWorkBench and others. ( <a href="www.google.com">Resume</a> )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
 
@@ -22,6 +22,4 @@ Motivated computer systems engineer student, passionate about technology who's c
 [![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml)
 
-<a ref='www.google.com'>Click<a/>
-📄 Resume
 

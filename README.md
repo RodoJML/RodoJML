@@ -13,6 +13,7 @@ Motivated computer systems engineer student, passionate about technology who's c
 * BUS349 - Data Management and Big Data  
 ![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
 ## Find me around the web 🌎
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 📬 email: rjmenes1@asu.edu
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)

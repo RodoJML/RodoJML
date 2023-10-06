@@ -15,7 +15,6 @@ Motivated computer systems engineer student, passionate about technology who's c
 ## Find me around the web 🌎
 📬 email: rjmenes1@asu.edu
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RodoJML)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodolfo-meneses-leal-08b66a20a/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rodojml/)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670325.png' alt='discord' height='40'>](https://www.discordapp.com/users/695849984712638475)

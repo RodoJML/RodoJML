@@ -7,7 +7,7 @@ Motivated software developer, passionate about technology who's constantly learn
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoJML&layout=compact&theme=dark)
 
 # 📲 Currently learning
-**Harvard on edX - (Spring '24)**
+**Harvard University on edX - (Spring '24)**
 * CS50 - Introduction to Computer Science
   
 **State University of New York - (Fall '23)**

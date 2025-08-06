@@ -17,7 +17,16 @@ Motivated software developer, passionate about technology who's constantly learn
 * BUS349 - Data Management and Big Data  
 ![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
 ## Find me around the web 🌎
-📬 email: rodojml@me.com | <img href="https://www.linkedin.com/in/rodojml" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> | <img href="https://www.instagram.com/rodojml" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+📬 email: rodojml@me.com | 
+
+<a href="http://www.linkedin.com/in/rodojml" target="blank" style="text-decoration: none">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a/>
+  
+<a href="http://www.instagram.com/rodojml" target="blank" style="text-decoration: none">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a/>
+  
 
 
 

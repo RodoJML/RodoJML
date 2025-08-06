@@ -21,7 +21,8 @@ Motivated software developer, passionate about technology who's constantly learn
 <br/><br/>
 <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml)
-![visitors](https://vbr.nathanchung.dev/badge?page_id=rodojml)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=rodojml.rodojml)
+![visitors](visitor-badge.glitch.me/badge?page_id=rodojml.rodojml)
 
 
 

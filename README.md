@@ -23,4 +23,3 @@ Motivated software developer, passionate about technology who's constantly learn
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=rodojml.rodojml?style=for-the-badge)
 
 
-

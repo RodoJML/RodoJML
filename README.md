@@ -19,7 +19,7 @@ Motivated software developer, passionate about technology who's constantly learn
 ## Find me around the web 🌎
 📬 email: rodojml@me.com | 💼 LinkedIn: https://www.linkedin.com/in/rodojml | 📷 Instagram: https://www.instagram.com/rodojml 
 <br/><br/>
-https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white
+<img src="{https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white}" />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml)
 
 

@@ -17,12 +17,11 @@ Motivated software developer, passionate about technology who's constantly learn
 * BUS349 - Data Management and Big Data  
 ![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
 ## Find me around the web 🌎
-📬 email: menesesr1@newpaltz.edu <br/><br/>
-💼 LinkedIn: https://www.linkedin.com/in/rodojml <br/><br/>
-📷 Instagram: https://www.instagram.com/rodojml <br/><br/>
+📬 email: menesesr1@newpaltz.edu <br/>
+💼 LinkedIn: https://www.linkedin.com/in/rodojml <br/>
+📷 Instagram: https://www.instagram.com/rodojml 
 
 <br/><br/>
-[![Years Badge](https://badges.pufler.dev/years/rodojml)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml)
 
 

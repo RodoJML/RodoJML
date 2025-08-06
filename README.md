@@ -17,21 +17,12 @@ Motivated software developer, passionate about technology who's constantly learn
 * BUS349 - Data Management and Big Data  
 ![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
 ## Find me around the web 🌎
-📬 email: rodojml@me.com | 
+📬 eMail: rodojml@me.com  <br/>
+💼 LinkedIn: <a href="http://www.linkedin.com/in/rodojml" target="_blank">@rodojml</a> <br/>
+📷 Instagram: <a href="http://www.instagram.com/rodojml" target="_blank">@rodojml</a> <br/>
+<br/>
+<img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white"/> </div>
+![visitors](https://vbr.nathanchung.dev/badge?page_id=rodojml.rodojml?style=for-the-badge) 
 
-<a href="http://www.linkedin.com/in/rodojml" target="blank" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a/>
-  
-<a href="http://www.instagram.com/rodojml" target="blank" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a/>
-  
-
-
-
-<br/><br/>
-<img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
-![visitors](https://vbr.nathanchung.dev/badge?page_id=rodojml.rodojml?style=for-the-badge)
 
 

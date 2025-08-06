@@ -1,4 +1,4 @@
-# <img src='https://github.com/RodoJML/RodoJML/assets/63088555/b6d2f1aa-de81-4cca-817e-966bf49703a9' alt='hello' height='50' width='150' style="vertical-align: top"> I'm Rodo 👋🏽
+# <img src='https://github.com/RodoJML/RodoJML/assets/63088555/b6d2f1aa-de81-4cca-817e-966bf49703a9' alt='hello' height='50' width='125' style="vertical-align: top"> I'm Rodo 👋🏽
 <img width="1001" alt="banne" src="https://github.com/RodoJML/RodoJML/assets/63088555/f7b1be76-5942-469a-b6a9-f7d3460f8518">
 
 Motivated software developer, passionate about technology who's constantly learning about the most used programming languages like Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB using Frameworks like VUE, React, Tailwind, Bulma combined with tools as git, GitHub, Visual Studio Code, mySQLWorkBench and others.
@@ -18,7 +18,7 @@ Motivated software developer, passionate about technology who's constantly learn
 ![19-21-54-945_512](https://github.com/RodoJML/RodoJML/assets/63088555/5e15d623-618f-4204-b82a-b24e0adb3521)
 ## Find me around the web 🌎
 📬 email: rodojml@me.com | 💼 LinkedIn: https://www.linkedin.com/in/rodojml | 📷 Instagram: https://www.instagram.com/rodojml 
-<br/>
+<br/><br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodojml.rodojml)
 
 
